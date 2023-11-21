@@ -10,3 +10,7 @@ streamlit run Dashboard.py
 
 # link Dashboard streamlit
 https://dashboarddataa.streamlit.app/
+
+![alt text](https://github.com/AsmaulHusnah028/Data_Analisis_BikeSharing/blob/main/ss_dashboard/Screenshot%20(35).png?raw=true)
+![alt text](https://github.com/AsmaulHusnah028/Data_Analisis_BikeSharing/blob/main/ss_dashboard/Screenshot%20(36).png?raw=true)
+![alt text](https://github.com/AsmaulHusnah028/Data_Analisis_BikeSharing/blob/main/ss_dashboard/Screenshot%20(37).png?raw=true)
